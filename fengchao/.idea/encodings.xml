@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/activemq-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/common-libs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/crawler-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/crawler-xsoup" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/kafka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/mongodb-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/redis-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-common/zookeeper-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-core/crawler-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-core/crawler-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-distribute-sys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uumai-distribute-sys/uumai-mapreduce" charset="UTF-8" />
+  </component>
+</project>

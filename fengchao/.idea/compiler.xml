@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-libs" />
+        <module name="uumai-activemq-client" />
+        <module name="uumai-crawler-core" />
+        <module name="uumai-crawler-quartz" />
+        <module name="uumai-crawler-util" />
+        <module name="uumai-crawler-xsoup" />
+        <module name="uumai-kafka-client" />
+        <module name="uumai-mapreduce" />
+        <module name="uumai-mongo-client" />
+        <module name="uumai-redis-client" />
+        <module name="uumai-zookeeper-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-libs" target="1.5" />
+      <module name="uumai-activemq-client" target="1.5" />
+      <module name="uumai-common" target="1.5" />
+      <module name="uumai-core" target="1.5" />
+      <module name="uumai-crawler-core" target="1.5" />
+      <module name="uumai-crawler-quartz" target="1.5" />
+      <module name="uumai-crawler-util" target="1.5" />
+      <module name="uumai-crawler-xsoup" target="1.5" />
+      <module name="uumai-distribute-sys" target="1.5" />
+      <module name="uumai-fengchao-parent" target="1.5" />
+      <module name="uumai-kafka-client" target="1.5" />
+      <module name="uumai-mapreduce" target="1.5" />
+      <module name="uumai-mongo-client" target="1.5" />
+      <module name="uumai-redis-client" target="1.5" />
+      <module name="uumai-zookeeper-client" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

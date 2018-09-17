@@ -34,7 +34,7 @@ public class Html extends HtmlNode {
 	private void disableJsoupHtmlEntityEscape() {
 		if (DISABLE_HTML_ENTITY_ESCAPE && !INITED) {
 			Entities.EscapeMode.base.getMap().clear();
-			Entities.EscapeMode.extended.getMap().clear();
+            Entities.EscapeMode.extended.getMap().clear();
 			INITED = true;
 		}
 	}

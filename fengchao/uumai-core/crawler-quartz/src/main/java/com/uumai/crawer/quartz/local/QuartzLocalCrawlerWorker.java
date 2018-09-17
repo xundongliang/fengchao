@@ -107,4 +107,19 @@ public class QuartzLocalCrawlerWorker extends LocalCrawlerWorker {
  
     }
 
+    protected JsonObject pipelineToList() throws Exception {
+
+        QuartzCrawlerTasker quartztasker = (QuartzCrawlerTasker) tasker;
+
+        Json2DBHelper helper =null;
+
+        JsonParseHelper jsonParseHelper=new JsonParseHelper(quartztasker,result);
+
+        List<JsonObject> list=  jsonParseHelper.parse();
+        this.pipelineresult=list;
+        if (list != null && list.size() >0){
+            return list.get(0);
+        }
+        return null;
+    }
 }

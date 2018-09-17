@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/common-libs/common-libs.iml" filepath="$PROJECT_DIR$/uumai-common/common-libs/common-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/activemq-client/uumai-activemq-client.iml" filepath="$PROJECT_DIR$/uumai-common/activemq-client/uumai-activemq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/uumai-common.iml" filepath="$PROJECT_DIR$/uumai-common/uumai-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-core/uumai-core.iml" filepath="$PROJECT_DIR$/uumai-core/uumai-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-core/crawler-core/uumai-crawler-core.iml" filepath="$PROJECT_DIR$/uumai-core/crawler-core/uumai-crawler-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-core/crawler-quartz/uumai-crawler-quartz.iml" filepath="$PROJECT_DIR$/uumai-core/crawler-quartz/uumai-crawler-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/crawler-util/uumai-crawler-util.iml" filepath="$PROJECT_DIR$/uumai-common/crawler-util/uumai-crawler-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/crawler-xsoup/uumai-crawler-xsoup.iml" filepath="$PROJECT_DIR$/uumai-common/crawler-xsoup/uumai-crawler-xsoup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-distribute-sys/uumai-distribute-sys.iml" filepath="$PROJECT_DIR$/uumai-distribute-sys/uumai-distribute-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-fengchao-parent.iml" filepath="$PROJECT_DIR$/uumai-fengchao-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/kafka-client/uumai-kafka-client.iml" filepath="$PROJECT_DIR$/uumai-common/kafka-client/uumai-kafka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-distribute-sys/uumai-mapreduce/uumai-mapreduce.iml" filepath="$PROJECT_DIR$/uumai-distribute-sys/uumai-mapreduce/uumai-mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/mongodb-client/uumai-mongo-client.iml" filepath="$PROJECT_DIR$/uumai-common/mongodb-client/uumai-mongo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/redis-client/uumai-redis-client.iml" filepath="$PROJECT_DIR$/uumai-common/redis-client/uumai-redis-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uumai-common/zookeeper-client/uumai-zookeeper-client.iml" filepath="$PROJECT_DIR$/uumai-common/zookeeper-client/uumai-zookeeper-client.iml" />
+    </modules>
+  </component>
+</project>
